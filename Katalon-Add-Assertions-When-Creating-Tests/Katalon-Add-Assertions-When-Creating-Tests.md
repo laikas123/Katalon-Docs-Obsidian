@@ -102,8 +102,8 @@ In the box on the image above you can see there is a warning at step 4 which is 
 
 So **the big takeaways are**:
 
-- Wait asserts are "soft asserts", they don't actually stop the test. They are a best effort to wait for a condition, but will let the test proceed even if that condition isn't met. 
-- Verify asserts are "hard asserts", they will actually stop and fail the test if the condition isn't met.
+- Wait asserts will **try to delay** the test until a condition is met, but will **allow the test to continue even if that condition isn't met after waiting**. 
+- Verify asserts **will fail the test if the condition is not met**.
 
 So all in all the two sort of compliment each other. If in general a page is slow and you just want to make sure things probably loaded up, then a wait is probably fine. But if you need to make sure something is truly in a specific state before proceeding then a verify is the way to go.
 
