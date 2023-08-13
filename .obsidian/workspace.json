@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "65812075fcd6b974",
+    "type": "split",
+    "children": [
+      {
+        "id": "402cb6b324d032bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc7c675187930621",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "485b9c4a7b1232d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec528839091c93eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katalon-Create-Test-Suites/Katalon-Create-Test-Suites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d45cff23ea7cf93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "16b87fd2994b45d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19badecfd190e836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katalon-Create-Test-Suites/Katalon-Create-Test-Suites.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "113e92f578c5f5c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "368e1ce05c86fdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9620c6e10778aba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "188cd799af95c4c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53ff51154c0e5ab5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f51831e4183697d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4defe707920b490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10bd17207726772e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "164784b730f9d817",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffac34fab8860365",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6392b30b4792aa4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9620c6e10778aba8",
+  "lastOpenFiles": [
+    "README.md",
+    "Katalon-Add-Assertions-When-Creating-Tests",
+    "Katalon-Create-Test-Suites/Katalon-Create-Test-Suites.md",
+    "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+    "Katalon-Create-Test-Suites/test-saved.png",
+    "Katalon-Create-Test-Suites/asterisk.png",
+    "Katalon-Create-Test-Suites/test-added.png",
+    "Katalon-Create-Test-Suites/select-tests-to-add.png",
+    "Katalon-Create-Test-Suites/blank-test-suite.png",
+    "Katalon-Create-Test-Suites/add-test.png",
+    "Katalon-Create-Test-Suites/test-suite-create.png",
+    "Katalon-Create-Test-Suites/test-suite-folder.png",
+    "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
+    "Katalon-Create-Test-Suites",
+    "Pasted image 20230813101040.png",
+    "Katalon-Create-Project-And-Tests/filled-tests.png",
+    "Katalon-Create-Project-And-Tests/1.png.md",
+    "Katalon-Create-Project-And-Tests",
+    "Images/Katalon-Create-Project-And-Tests",
+    "Images"
+  ]
+}
