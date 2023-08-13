@@ -1,5 +1,7 @@
 # Katalon: Creating Test Suites
 
+## Adding a New Test Suite
+
 As the number of tests grow it's nice to be able to organize them into test suites. To create a new test suite, right click on the "Test Suites" folder and then select "New -> Test Suite":
 
 ![[test-suite-folder.png]]
@@ -8,6 +10,8 @@ As the number of tests grow it's nice to be able to organize them into test suit
 After giving the test suite a name, a new test suite will open and should look something like this:
 
 ![[blank-test-suite.png]]
+
+## Adding Tests to The Test Suite
 
 To add a new test to the test suite, click "Add" and then select the tests you want to add:
 
@@ -20,6 +24,7 @@ The test will now successfully be in the test suite:
 
 Tests can later be added or removed using the "Add" and "Delete" buttons respectively.
 
+## Making Sure to Save Test Suites
 
 As a side note, notice how in the last image there is this small "\*" icon next to the name of the test suite:
 

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Katalon-Create-Test-Suites/Katalon-Create-Test-Suites.md",
+                "file": "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,24 +197,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9620c6e10778aba8",
+  "active": "6d45cff23ea7cf93",
   "lastOpenFiles": [
+    "Katalon-Add-Assertions-When-Creating-Tests/difference-wait-assert.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/password-version.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/verify-element-clickable-in-test.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+    "Katalon-Add-Assertions-When-Creating-Tests/verify-element-clickable.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/timeout0.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/timeout1.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/timeout2.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/wait-added-to-test.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/email-add-wait.png",
+    "Katalon-Add-Assertions-When-Creating-Tests/hover-email.png",
+    "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
+    "Katalon-Create-Test-Suites/Katalon-Create-Test-Suites.md",
     "README.md",
     "Katalon-Add-Assertions-When-Creating-Tests",
-    "Katalon-Create-Test-Suites/Katalon-Create-Test-Suites.md",
-    "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
     "Katalon-Create-Test-Suites/test-saved.png",
-    "Katalon-Create-Test-Suites/asterisk.png",
-    "Katalon-Create-Test-Suites/test-added.png",
-    "Katalon-Create-Test-Suites/select-tests-to-add.png",
-    "Katalon-Create-Test-Suites/blank-test-suite.png",
-    "Katalon-Create-Test-Suites/add-test.png",
-    "Katalon-Create-Test-Suites/test-suite-create.png",
-    "Katalon-Create-Test-Suites/test-suite-folder.png",
-    "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
     "Katalon-Create-Test-Suites",
-    "Pasted image 20230813101040.png",
-    "Katalon-Create-Project-And-Tests/filled-tests.png",
     "Katalon-Create-Project-And-Tests/1.png.md",
     "Katalon-Create-Project-And-Tests",
     "Images/Katalon-Create-Project-And-Tests",
