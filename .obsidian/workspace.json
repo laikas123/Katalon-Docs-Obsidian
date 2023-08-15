@@ -4,73 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "402cb6b324d032bb",
+        "id": "96f4915d4ca36a11",
         "type": "tabs",
         "children": [
           {
-            "id": "dc7c675187930621",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "485b9c4a7b1232d6",
+            "id": "76e0221d2a5791c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
+                "file": "Katalon-Web-Spy-And-File-Uploads/Katalon-Web-Spy-And-File-Uploads.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec528839091c93eb",
+            "id": "f0148507fdeca079",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d45cff23ea7cf93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230815135341.png"
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "57f74c2b5cbe6da8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42f06d07d2332a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+                "file": "Pasted image 20230815135341.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+                "file": "Pasted image 20230815135341.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md"
+                "file": "Pasted image 20230815135341.png"
               }
             }
           }
@@ -197,22 +157,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42f06d07d2332a46",
+  "active": "9620c6e10778aba8",
   "lastOpenFiles": [
-    "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
-    "README.md",
-    "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
-    "Katalon-Add-Assertions-When-Creating-Tests/difference-wait-assert.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/password-version.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/verify-element-clickable-in-test.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/verify-element-clickable.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/timeout0.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/timeout1.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/timeout2.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/wait-added-to-test.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/email-add-wait.png",
-    "Katalon-Add-Assertions-When-Creating-Tests/hover-email.png",
+    "Katalon-Call-Another-Test-Case/Katalon-Call-Another-Test-Case.md",
+    "Katalon-Call-Another-Test-Case/call2.png",
+    "Katalon-Call-Another-Test-Case/call1.png",
+    "Katalon-Call-Another-Test-Case/open-browser.png",
+    "Katalon-Call-Another-Test-Case/varsused.png",
+    "Katalon-Call-Another-Test-Case/callbsoth.png",
+    "Katalon-Call-Another-Test-Case/alldone.png",
+    "Katalon-Call-Another-Test-Case/testupdated2.png",
+    "Katalon-Call-Another-Test-Case/ok2.png",
+    "Katalon-Call-Another-Test-Case/videoURL.png",
+    "Pasted image 20230815140939.png",
     "Katalon-Create-Test-Suites/Katalon-Create-Test-Suites.md",
+    "Katalon-Create-Project-And-Tests/Katalon-Create-Project-And-Tests.md",
+    "Katalon-Add-Assertions-When-Creating-Tests/Katalon-Add-Assertions-When-Creating-Tests.md",
+    "Katalon-Web-Spy-And-File-Uploads/Katalon-Web-Spy-And-File-Uploads.md",
+    "Katalon-Call-Another-Test-Case",
+    "README.md",
+    "Katalon-Merge-Conflicts/Katalon-Merge-Conflicts.md",
+    "Katalon-Web-Spy-And-File-Uploads",
+    "Katalon-Merge-Conflicts",
     "Katalon-Add-Assertions-When-Creating-Tests",
     "Katalon-Create-Test-Suites",
     "Katalon-Create-Project-And-Tests/1.png.md",
